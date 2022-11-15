@@ -1,0 +1,18 @@
+[
+  {
+	"name": "Pizzas",
+	"icon": "🍕"
+  },
+  {
+    "name": "Bebidas",
+    "icon": "🍺"
+  },
+  {
+    "name": "Burguers",
+    "icon": "🍔"
+  },
+  {
+    "name": "Promoções",
+    "icon": "🏷️"
+  }
+]
